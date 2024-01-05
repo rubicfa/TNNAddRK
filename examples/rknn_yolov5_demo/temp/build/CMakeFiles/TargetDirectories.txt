@@ -1,0 +1,7 @@
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/test.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/edit_cache.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/rebuild_cache.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/list_install_components.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/install.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/install/local.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/temp/build/CMakeFiles/install/strip.dir

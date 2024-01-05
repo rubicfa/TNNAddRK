@@ -1,0 +1,7 @@
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/RK_YOLOV5_DET_SDK.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/edit_cache.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/rebuild_cache.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/list_install_components.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/install.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/install/local.dir
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/wrap/build/build_android_v8a/CMakeFiles/install/strip.dir

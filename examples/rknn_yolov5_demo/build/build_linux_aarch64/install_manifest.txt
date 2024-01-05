@@ -1,0 +1,13 @@
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/./rknn_yolov5_demo
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librknnrt.so
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librga.so
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3566_RK3568/yolov5s-640-640.rknn
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3588/yolov5s-640-640.rknn
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3588/mobilenet_v2.rknn
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3588/yolov5s_relu.rknn
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/bus.jpg
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/coco_80_labels_list.txt
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/.//model/RK3562/yolov5s-640-640.rknn
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/./rknn_yolov5_video_demo
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/librockchip_mpp.so
+/mnt/disk1T/file/rknpu2/examples/rknn_yolov5_demo/install/rknn_yolov5_demo_Linux/lib/libmk_api.so
